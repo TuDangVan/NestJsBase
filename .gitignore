@@ -1,0 +1,24 @@
+# dependencies
+/node_modules
+/admin_plugins/admin-bro-upload/node_modules
+# IDE
+/.idea
+/.awcache
+/.vscode
+
+# misc
+npm-debug.log
+/data
+
+# tests
+/test
+/coverage
+/.nyc_output
+
+# dist
+/dist
+
+.history
+.env
+
+/.adminbro/.entry.js
